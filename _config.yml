@@ -29,7 +29,7 @@ github_username:  shubunchu
 
 # Build settings
 # theme: minima
-remote_theme: wild-flame/jekyll-simple
+remote_theme: wild-flame/simple
 plugins:
   - jekyll-feed
 
