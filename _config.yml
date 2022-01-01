@@ -28,8 +28,7 @@ twitter_username: shubunchu
 github_username:  shubunchu
 
 # Build settings
-# theme: minima
-remote_theme: wild-flame/simple
+theme: minima
 plugins:
   - jekyll-feed
 
